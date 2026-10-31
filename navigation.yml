@@ -1,0 +1,13 @@
+main:
+  - title: "Guides"
+    url: /guides/
+  - title: "Bot Design"
+    url: /bot-design/
+  - title: "Research"
+    url: /research/
+  - title: "Battle Reports"
+    url: /battle-reports/
+  - title: "Archive"
+    url: /archives/
+  - title: "About"
+    url: /about/

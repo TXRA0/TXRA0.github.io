@@ -1,0 +1,20 @@
+---
+---
+
+// Keep the Minimal Mistakes Air skin and theme defaults, with a restrained
+// link colour suitable for a clean technical blog.
+$link-color: #245b78;
+$visited-link-color: #496b80;
+
+@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes";
+
+.page__content {
+  h2, h3 {
+    margin-top: 1.8em;
+  }
+
+  table {
+    font-size: 0.9em;
+  }
+}
