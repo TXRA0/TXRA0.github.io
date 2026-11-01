@@ -66,4 +66,4 @@ The reasons for this are here:
 
 ## Next blog
 Next blog, I will go deeper into combat, and likely start talking about simple mission workflows. Please tell me if you have any specific requests!
-❤️
+Love from _TXR ❤️
